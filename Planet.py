@@ -15,8 +15,3 @@ class planetstats:
         y = 300
         pygame.draw.circle(self.screen, self.colour, (500, 300), self.length + 20, 1)
         pygame.draw.circle(self.screen, self.colour, (x, y), self.radius)
-
-
-
-
-
